@@ -2,6 +2,7 @@
 
 # coding:utf-8
 ##http://blog.csdn.net/monsion/article/details/8115671
+##https://github.com/michaelliao/sinaweibopy/wiki/OAuth2-HOWTO
 from weibo import APIClient
 import webbrowser  # python内置的包
 
